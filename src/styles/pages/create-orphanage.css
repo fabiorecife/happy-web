@@ -14,33 +14,6 @@
   align-items: center;
 }
 
-#page-create-orphanage aside img {
-  width: 48px;
-}
-
-#page-create-orphanage aside footer a,
-#page-create-orphanage aside footer button {
-  width: 48px;
-  height: 48px;
-
-  border: 0;
-
-  background: #12AFCB;
-  border-radius: 16px;
-
-  cursor: pointer;
-
-  transition: background-color 0.2s;
-
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-#page-create-orphanage aside footer a:hover,
-#page-create-orphanage aside footer button:hover {
-  background: #17D6EB;
-}
 
 #page-create-orphanage main {
   flex: 1;
